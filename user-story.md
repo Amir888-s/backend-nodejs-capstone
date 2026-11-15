@@ -2,6 +2,8 @@
 
 Use the format: **As a [role], I need [function], so that [benefit].**
 
+## User Stories
+
 1. As a visitor, I need to view available items, so that I can discover reusable products.
 2. As a visitor, I need to search by category, so that I can quickly find relevant items.
 3. As a visitor, I need to view item details, so that I can decide whether an item fits my needs.
@@ -12,6 +14,22 @@ Use the format: **As a [role], I need [function], so that [benefit].**
 8. As an item owner, I need to delete my listing, so that unavailable items are removed.
 9. As a registered user, I need to update my profile, so that my account information stays current.
 10. As a user, I need sentiment feedback, so that inappropriate or overly negative descriptions can be identified.
+
+## Details
+
+- The application provides REST APIs for browsing, searching, creating, updating, and deleting second-chance items.
+- Registered users authenticate with JSON Web Tokens.
+- Item listings can include an uploaded image.
+- Search supports category and other useful filters.
+- A sentiment endpoint analyzes submitted text.
+
+## Assumptions
+
+- MongoDB is available through the `MONGO_URL` environment variable.
+- Users must register and log in before accessing protected operations.
+- Only the owner of an item can update or delete that item.
+- Uploaded images use the multipart field name `file`.
+- API clients send and receive JSON unless uploading a file.
 
 ## Acceptance Criteria
 
