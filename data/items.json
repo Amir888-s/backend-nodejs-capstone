@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Desk Lamp",
+    "category": "Home",
+    "condition": "Good",
+    "age": 1,
+    "description": "A reusable item in good working order."
+  },
+  {
+    "name": "Mountain Bike",
+    "category": "Sports",
+    "condition": "Used",
+    "age": 2,
+    "description": "A reusable product ready for a second home."
+  },
+  {
+    "name": "Coffee Maker",
+    "category": "Kitchen",
+    "condition": "Like New",
+    "age": 3,
+    "description": "A reusable well-maintained item."
+  },
+  {
+    "name": "Winter Coat",
+    "category": "Clothing",
+    "condition": "Good",
+    "age": 4,
+    "description": "A reusable useful item with normal wear."
+  },
+  {
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "condition": "Good",
+    "age": 5,
+    "description": "A reusable item in good working order."
+  },
+  {
+    "name": "Acoustic Guitar",
+    "category": "Music",
+    "condition": "Used",
+    "age": 6,
+    "description": "A reusable product ready for a second home."
+  },
+  {
+    "name": "Office Chair",
+    "category": "Furniture",
+    "condition": "Like New",
+    "age": 1,
+    "description": "A reusable well-maintained item."
+  },
+  {
+    "name": "Tablet",
+    "category": "Electronics",
+    "condition": "Good",
+    "age": 2,
+    "description": "A reusable useful item with normal wear."
+  },
+  {
+    "name": "Cookware Set",
+    "category": "Kitchen",
+    "condition": "Good",
+    "age": 3,
+    "description": "A reusable item in good working order."
+  },
+  {
+    "name": "Tent",
+    "category": "Outdoors",
+    "condition": "Used",
+    "age": 4,
+    "description": "A reusable product ready for a second home."
+  },
+  {
+    "name": "Camera",
+    "category": "Electronics",
+    "condition": "Like New",
+    "age": 5,
+    "description": "A reusable well-maintained item."
+  },
+  {
+    "name": "Board Game",
+    "category": "Games",
+    "condition": "Good",
+    "age": 6,
+    "description": "A reusable useful item with normal wear."
+  },
+  {
+    "name": "Running Shoes",
+    "category": "Sports",
+    "condition": "Good",
+    "age": 1,
+    "description": "A reusable item in good working order."
+  },
+  {
+    "name": "Plant Pot",
+    "category": "Garden",
+    "condition": "Used",
+    "age": 2,
+    "description": "A reusable product ready for a second home."
+  },
+  {
+    "name": "Toolbox",
+    "category": "Tools",
+    "condition": "Like New",
+    "age": 3,
+    "description": "A reusable well-maintained item."
+  },
+  {
+    "name": "Baby Stroller",
+    "category": "Baby",
+    "condition": "Good",
+    "age": 4,
+    "description": "A reusable useful item with normal wear."
+  }
+]
